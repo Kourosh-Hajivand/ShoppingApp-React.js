@@ -3,6 +3,9 @@ ShoppingApp With React
 <img width="1432" alt="image" src="https://user-images.githubusercontent.com/91964493/185085901-b6e42f03-e0af-4010-9d92-25b9f2194b8f.png">
 
 
+
+<img width="1383" alt="Screen Shot 1401-05-26 at 2 07 18 PM" src="https://user-images.githubusercontent.com/91964493/185086637-1122fae7-c815-46ab-b427-cfe00938bb2b.png">
+
 -Usage-
 -Open Back Folder And in Terminal Run "npm install" 
 -After install in Terminal  Run npm start  
@@ -12,14 +15,6 @@ ShoppingApp With React
 -npm install
 -npm start
 
-----This Site Built With ---
--React 
--Redux
--React-Routers 
--Bootstrap
--Bootstrap-React
--Javascript
-------------
 
 -Dependencies--
    "@reduxjs/toolkit": "^1.8.3",
