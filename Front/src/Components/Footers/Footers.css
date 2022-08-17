@@ -1,0 +1,25 @@
+#Main-Footer {
+  width: 100%;
+  height: 160px;
+  box-sizing: border-box;
+  background-color: #212529;
+  display: flex;
+  align-items: center;
+}
+.footer-logo {
+  background-image: url("/public/Personal-Logo/Logo\,Whitee.png");
+  width: 100px;
+  height: 130px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Titel-Custom {
+  color: #ededed;
+  margin-top: 15px;
+  font-family: sans-serif;
+}
+.list {
+  color: #747579;
+  margin-top: 15px;
+  font-family: sans-serif;
+}

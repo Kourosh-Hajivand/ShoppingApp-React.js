@@ -1,0 +1,14 @@
+.Titel {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row;
+}
+#Link {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.Price,
+.titel {
+  font-family: sans-serif;
+}

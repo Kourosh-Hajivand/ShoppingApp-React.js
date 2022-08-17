@@ -1,0 +1,10 @@
+.bg-custom {
+  background-color: #495057;
+}
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
